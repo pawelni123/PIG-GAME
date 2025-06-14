@@ -10,7 +10,7 @@ Structuring a game loop and managing game state variables
 Applying modern CSS techniques for layout, styling, and transitions
 
 🚀 How to Run
-Link:
+Link: https://pawelni123.github.io/PIG-GAME/
 Clone this repository
 Open index.html in your browser
 Start guessing and have fun!
